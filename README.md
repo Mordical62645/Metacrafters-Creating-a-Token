@@ -1,13 +1,17 @@
 # Metacrafters Creating a Token
-Simple overview of use/purpose.
+Creating a token with Solidity for Metacrafters Solidity course final assessment.
 
 ## Description
-An in-depth paragraph about your project and overview of use.
+This project serves as an exercis to hone fluency of Solidity language.
+Solidity is a language which EVM runs to to create transaction blocks.
+This is the gist of how proof of stake works in decentralized transaction or mining. 
 
 ## Getting Started
 ### Installing
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* The assessment file is public and free to download.
+* Highly advise to install Remix (Solidity IDE) as well.
+** Link: https://remix-project.org/
+** Online IDE web based version: https://remix.ethereum.org/
 ### Executing program
 * How to run the program
 * Step-by-step bullets
