@@ -12,6 +12,7 @@ This is the gist of how proof of stake works in decentralized transaction or min
 * Highly advise to install Remix (Solidity IDE) as well.
 
 Remix Link: https://remix-project.org/
+
 Remix Online IDE web based version: https://remix.ethereum.org/
 ### Executing program
 * How to run the program
