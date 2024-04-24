@@ -43,7 +43,13 @@ by navigating the Solidity Compiler on the right navigator.
 Inputting a value in burn that is greater than the mint value or the ```Total_Supply``` will not return any value to the ```Total_Supply```.
 
 ## Help
-There are no known issues so far. If you ever find one, email me: p.tecson.rizal@gmail.com
+There are no known issues so far. If you ever find one, email me at: 
+
+p.tecson.rizal@gmail.com
+
+as for Metacrafters, email me at:
+
+423004024@ntc.edu.ph 
 
 ## Authors
 Marco Tecson
