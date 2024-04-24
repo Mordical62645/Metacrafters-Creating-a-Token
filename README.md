@@ -31,7 +31,7 @@ or
 by navigating the Solidity Compiler on the right navigator.
 * Click ```Compile L9_FinalAssessment.sol``` under the Advanced Configurations.
 * Under Solidity Compiler, click Deploy & run transactions.
-* Under CONTRACT, click Deploy.
+* Under CONTRACT, click ```Deploy```.
 * Scroll all the way down and you will see the deployed token. Click the arrow.
 * Click ```Token_Abbrv`` and ```Token_Name``` and it will display the token name and abbreviation.
 * Scroll all the way up and copy ACCOUNT address.
