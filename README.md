@@ -17,7 +17,16 @@ Remix Online IDE web based version: https://remix.ethereum.org/
 ### Executing program
 * With Remix, ensure that the version imported to the file is the version
 of Remix currently installed on your device.
+
 ``` pragma solidity 0.8.22; ```
+
+or
+
+``` pragma solidity version; ```
+
+or 
+
+``` pragma solidity ^0.8.22; ```
 * Step-by-step bullets
 
 
