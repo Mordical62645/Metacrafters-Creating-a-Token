@@ -10,8 +10,8 @@ This is the gist of how proof of stake works in decentralized transaction or min
 ### Installing
 * The assessment file is public and free to download.
 * Highly advise to install Remix (Solidity IDE) as well.
-** Link: https://remix-project.org/
-** Online IDE web based version: https://remix.ethereum.org/
+Remix Link: https://remix-project.org/
+Remix Online IDE web based version: https://remix.ethereum.org/
 ### Executing program
 * How to run the program
 * Step-by-step bullets
