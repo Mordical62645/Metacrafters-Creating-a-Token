@@ -16,7 +16,7 @@ Remix Link: https://remix-project.org/
 Remix Online IDE web based version: https://remix.ethereum.org/
 ### Executing program
 * With Remix, ensure that the version imported to the file is the version
-of Remix currently installed on your device.
+of Remix currently installed on your device:
 
 ``` pragma solidity 0.8.22; ```
 
@@ -27,18 +27,27 @@ or
 or 
 
 ``` pragma solidity ^0.8.22; ```
-* Step-by-step bullets
+* After successfully importing the right version, simply compile the code
+by navigating the Solidity Compiler on the right navigator.
+* Click ```Compile L9_FinalAssessment.sol``` under the Advanced Configurations.
+* Under Solidity Compiler, click Deploy & run transactions.
+* Under CONTRACT, click Deploy.
+* Scroll all the way down and you will see the deployed token. Click the arrow.
+* Click ```Token_Abbrv`` and ```Token_Name``` and it will display the token name and abbreviation.
+* Scroll all the way up and copy ACCOUNT address.
+* Scroll all the way down again and paste the address in ```balances```, ```burn```, and ```mint```.
+* Under ```mint```, input a value. Click ```transact```.
+* Under ```burn```, input a value to deduct from the mint value. Click ```transact```.
+* Lastly, click ```Total_Supply```
 
+Inputting a value in burn that is greater than the mint value or the ```Total_Supply``` will not return any value to the ```Total_Supply```.
 
 ## Help
-Any advise for common problems or issues.
+There are no known issues so far. If you ever find one, email me: p.tecson.rizal@gmail.com
 
-``` command to run if program contains helper info```
 ## Authors
-Contributors names and contact info
-
-ex. Dominique Pizzie
-ex. @DomPizzie
+Marco Tecson
+@Mordical62645
 
 ## License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is not licensed but is under the name of Metacrafters.
