@@ -50,4 +50,4 @@ Marco Tecson
 @Mordical62645
 
 ## License
-This project is not licensed but is under the name of Metacrafters.
+This project is not licensed but is under the name of Metacrafters and The National Teachers College.
